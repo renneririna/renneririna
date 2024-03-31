@@ -1,5 +1,7 @@
 ### Привет 👋
-Меня зовут Ирина!
+Меня зовут Ирина! 
+
+Я начинающий тестировщик 😊 😇  
 
 На данный момент обучаюсь онлайн на оброзовательной платформе [GeekBrains](https://gb.ru/company) по программе "Разработчик-Тестировщик"
 
@@ -29,8 +31,16 @@
 
 <hr>
 
+Курсы пройденные в рамках специализации Разработчик-Тестировщик на образовательном портале GeekBrains
+
+| Курсы                        | Документ |
+|------------------------------|----------|
+| Введение в тестирование      | [Сертификат](https://drive.google.com/file/d/1ANYb3aqyObFjWJa-s2KYnMnQcxOSB-BD/view?usp=sharing)         |
+| Основы ручного тестирования  | [Сертификат](https://drive.google.com/file/d/1plYPJrgnHo9X37TROYkgqbDuIhOYxez1/view?usp=drive_link)          |
+| Тест-дизайн и Тест-аналитика | [Сертификат](https://drive.google.com/file/d/18DgupTdiariGaweXtSJQxdQW3j8RbxBm/view?usp=drive_link)          |
+
 #### 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-343434?style=flat-square&logo=Telegram)](https://t.me/rennersha)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-343434?style==for-the-badge&logo=WhatsApp&logoColor=deepgreen)](https://wa.me/79882351235)
-[![Email](https://img.shields.io/badge/-Email-343434?style==for-the-badge&logo=mail.ru&logoColor=blue)](https://e.mail.ru/rennersha@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-343434?style==for-the-badge&logo=mail.ru&logoColor=blue)]((mailto:rennersha@mail.ru))
